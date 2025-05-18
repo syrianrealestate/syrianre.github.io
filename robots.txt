@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syrianrealestate.github.io/Syrianre.github.io/sitemap.xml
