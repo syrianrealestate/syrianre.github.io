@@ -1,0 +1,23 @@
+{
+  "name": "coming-soon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syrianrealestate/Syrianre.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syrianrealestate/Syrianre.github.io/issues"
+  },
+  "homepage": "https://github.com/syrianrealestate/Syrianre.github.io#readme",
+  "description": "",
+  "dependencies": {
+    "sitemap": "^8.0.0"
+  }
+}
